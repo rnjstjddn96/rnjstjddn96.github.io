@@ -1,0 +1,20 @@
+{
+    "webcredentials": {
+        "apps": [
+            "PS3VKR6VLL.com.imform.KeepIt"
+        ]
+    },
+    "applinks": {
+        "apps": [
+            "PS3VKR6VLL.com.imform.KeepIt"
+        ],
+        "details": [
+            {
+                "appID": "PS3VKR6VLL.com.imform.KeepIt",
+                "paths": [
+                    "*"
+                ]
+            }
+        ]
+    }
+}
